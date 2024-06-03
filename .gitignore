@@ -1,0 +1,9 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate*
+*.lock.hcl
+secret.tfvars
+
+# macOS
+.DS_Store
